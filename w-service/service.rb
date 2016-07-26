@@ -1,3 +1,6 @@
+require 'bundler'
+Bundler.require(:default)
+
 require 'jimson'
 
 class ServiceHandler
